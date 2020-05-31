@@ -40,3 +40,10 @@ A group or resources that helped me in college
 - https://codepen.io/
 
 
+# terminal command tutorials 
+- https://ubuntu.com/tutorials/command-line-for-beginners#4-creating-folders-and-files
+- http://linuxcommand.org/
+
+
+#typing practice 
+- https://www.typing.com/
