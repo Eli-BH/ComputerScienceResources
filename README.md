@@ -7,7 +7,7 @@ A group or resources that helped me in college
 - https://b-ok.org/
 - https://bookboon.com/
 - https://booksc.org/
-- http://www.ebook3000.com/ (recommended third search)
+- http://www.ebook3000.com/Engineering-Technology/index.html
 - https://ebookee.com/
 - http://www.freebookspot.es/default.aspx
 - https://openlibrary.org/
