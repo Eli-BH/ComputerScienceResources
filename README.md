@@ -25,7 +25,16 @@ A group or resources that helped me in college
 - https://www.codecademy.com/learn 
 - https://udemy.com
 - https://youtube.com
-- http://www.cplusplus.com/doc/tutorial/
+  : WebDevSimplified: https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw
+    Freecodecamp: https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ
+    Portexe: https://www.youtube.com/channel/UCjGQyJCSU_VVMTu5nigonqg (portfolios)
+    TheNetNinja: https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg
+    Aaron Jack :https://www.youtube.com/c/AaronJack/videos 
+    Coderelm: https://www.youtube.com/c/AaronJack/videos
+    TraversyMedia: https://www.youtube.com/user/TechGuyWeb
+    Dev Ed: https://www.youtube.com/channel/UClb90NQQcskPUGDIXsQEz5Q
+    Josh Fluke: https://www.youtube.com/user/Tychos1 (career help) 
+    - http://www.cplusplus.com/doc/tutorial/
 
 # Important programs and editors 
 - https://www.youtube.com/watch?v=RGOj5yH7evk&t=2031s (git) 
