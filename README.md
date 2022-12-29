@@ -1,6 +1,25 @@
 # ComputerScienceResources
-A group or resources that helped me in college
-# Computer Science resources and cheat sheets 
+A group of resources that helped me in college
+# Computer Science resources and cheat sheets
+
+# Front-end
+- https://www.frontendpractice.com/
+- https://www.firsttimersonly.com/
+
+# Interview specific stuff
+- https://www.techinterviewhandbook.org/coding-interview-study-plan/
+- https://www.techinterviewhandbook.org/algorithms/array/
+- https://www.interviewbit.com/full-stack-developer-interview-questions/
+
+# Data Structures and Algo
+- https://www.educative.io/courses/grokking-coding-interview-patterns-javascript
+- https://www.educative.io/path/ace-javascript-coding-interview
+- https://leetcode.com/subscribe/?ref=lp_pl (get the pro plan, it's worth it)
+- https://www.algoexpert.io/product
+- https://leetcode.com/discuss/general-discussion/460599/blind-75-leetcode-questions (DO THIS!!!)
+
+# Front-end practice 
+- https://www.algoexpert.io/frontend/product
 
 #resources (e-books) 
 - http://libgen.is/ (recommended first search) 
