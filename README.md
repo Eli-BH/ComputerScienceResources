@@ -2,9 +2,6 @@
 A group of resources that helped me in college
 # Computer Science resources and cheat sheets
 
-# Front-end
-- https://www.frontendpractice.com/
-- https://www.firsttimersonly.com/
 
 # Interview specific stuff
 - https://www.techinterviewhandbook.org/coding-interview-study-plan/
@@ -20,6 +17,12 @@ A group of resources that helped me in college
 
 # Front-end practice 
 - https://www.algoexpert.io/frontend/product
+- https://www.frontendpractice.com/
+- https://www.firsttimersonly.com/
+
+# Git 
+- https://learngitbranching.js.org/?locale=en_US
+- https://www.w3schools.com/git/git_exercises.asp
 
 #resources (e-books) 
 - http://libgen.is/ (recommended first search) 
